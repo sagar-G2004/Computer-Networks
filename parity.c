@@ -52,7 +52,7 @@ int main()
             printf("\nEnter the reciver data:\n");
             scanf("%d", &recived);
 
-            if (recived == bin)
+            if (recived == output)
                 printf("No error in Data\n");
             else
                 printf("Error in Data\n");
@@ -76,7 +76,7 @@ int main()
             printf("\nEnter the reciver data:\n");
             scanf("%d", &recived);
 
-            if (recived == bin)
+            if (recived == output)
                 printf("No error in Data\n");
             else
                 printf("Error in Data\n");
